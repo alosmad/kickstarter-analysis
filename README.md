@@ -2,7 +2,8 @@
 ### This analysis has the purpose of providing an initial recomendation for a crowdfunding campaign for Louise play **"Fever"**
 
 Parent category outcomes.png
-https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png
+![image](https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png)
+
 
 
 As a big picture we can see that theater is the category that uses more crowdfunding campaigns, it is not a category as successful as music or film & video but it has a rate near 50% for successful campaigns, we can se that analysis in the graph shown below.
