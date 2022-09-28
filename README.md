@@ -13,6 +13,8 @@ In terms of time, we recommend to make the campaign in the first 5 months of the
 
 Since this is the first crowfunding campaign  we recommend to reduce the estimated budget to a maximum of $5,600 and a minimum of $3,100 so there are greater possibilities to have a successful campaign and achieve the goal. If there is hesitancy about jumping into a campaign it is better to have less expectations of the monetary resources obtained via crowfunding, it is recommended to look for other ways for financing the play and not depend only on crowdfunding.
 
+https://github.com/alosmad/kickstarter-analysis/blob/cb45f890e2f03e3eb3e6c9ce8b67ab5b3e334c5c/Parent%20category%20outcomes.png
+
 
 Alejandro Mad
 ![Parent category outcomes](https://user-images.githubusercontent.com/78031156/192672315-740c87da-6cc6-4ba5-bfa8-9c145af14f48.png)
