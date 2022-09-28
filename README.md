@@ -1,6 +1,9 @@
 # Kickstarter Campaigns Analysis
 ### This analysis has the purpose of providing an initial recomendation for a crowdfunding campaign for Louise play **"Fever"**
 
+Parent category outcomes.png
+
+
 As a big picture we can see that theater is the category that uses more crowdfunding campaigns, it is not a category as successful as music or film & video but it has a rate near 50% for successful campaigns, we can se that analysis in the graph shown below.
 ![Parent category outcomes](C:\Users\madri\OneDrive\Escritorio\Data analysis Master\Crowdfunding Analysis\Parent category outcomes.png)
 
