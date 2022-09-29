@@ -14,7 +14,18 @@ In terms of time, we recommend to make the campaign in the first 5 months of the
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78031156/192919471-91bfca10-acf3-4366-b0f7-2b9a13a7f3fc.png)
 
+### Analysis of Outcomes Based on Goals
+
 Since this is the first crowfunding campaign  we recommend to reduce the estimated budget to a maximum of $5,600 and a minimum of $3,100 so there are greater possibilities to have a successful campaign and achieve the goal. If there is hesitancy about jumping into a campaign it is better to have less expectations of the monetary resources obtained via crowfunding, it is recommended to look for other ways for financing the play and not depend only on crowdfunding.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78031156/192922386-38522729-cb33-4a78-bc84-eb026ffb4ff8.png)
+
+## Results
+
+- What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+- What can you conclude about the Outcomes based on Goals?
+- What are some limitations of this dataset?
+- What are some other possible tables and/or graphs that we could create?
 
 Alejandro Madrigal
 Data Analysis
