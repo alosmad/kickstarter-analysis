@@ -10,7 +10,7 @@ As a big picture we can see that theater is the category that uses more crowdfun
 
 ### Analysis of Outcomes Based on Launch Date
 
-In terms of time, we recommend to make the campaign in the first 5 months of the year where the success rate increases.
+In terms of time, we recommend to make the campaign in the months of May, June and July; following that order for priority, remember that starting early in those months has a greater chance for achieve a successful campaign. I definitely not recommend to launch the campaign in the last two months of the year. 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78031156/192919471-91bfca10-acf3-4366-b0f7-2b9a13a7f3fc.png)
 
@@ -23,8 +23,11 @@ Since this is the first crowfunding campaign  we recommend to reduce the estimat
 ## Results
 
 - What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+
 - What can you conclude about the Outcomes based on Goals?
+
 - What are some limitations of this dataset?
+
 - What are some other possible tables and/or graphs that we could create?
 
 Alejandro Madrigal
