@@ -1,13 +1,11 @@
 # Kickstarter Campaigns Analysis
-### This analysis has the purpose of providing an initial recomendation for a crowdfunding campaign for Louise play **"Fever"**
-
-Parent category outcomes.png
-![image](https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png)
-
+## Overview of the Project
+### This analysis has the purpose of providing an initial crowdfunding campaign recomendation for Louise's play **"Fever"**
 
 
 As a big picture we can see that theater is the category that uses more crowdfunding campaigns, it is not a category as successful as music or film & video but it has a rate near 50% for successful campaigns, we can se that analysis in the graph shown below.
-![Parent category outcomes](C:\Users\madri\OneDrive\Escritorio\Data analysis Master\Crowdfunding Analysis\Parent category outcomes.png)
+
+![image](https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png)
 
 In terms of time, we recommend to make the campaign in the first 5 months of the year where the success rate increases.
 ![Outcomes based on launch date](C:\Users\madri\OneDrive\Escritorio\Data analysis Master\Crowdfunding Analysis\Outcomes based on launch date.png)
