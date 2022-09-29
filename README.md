@@ -6,10 +6,11 @@
 
 As a big picture we can see that theater is the category that uses more crowdfunding campaigns, it is not a category as successful as music or film & video but it has a rate near 50% for successful campaigns, we can se that analysis in the graph shown below.
 
-![image](https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png)
+![Parent category outcomes](https://user-images.githubusercontent.com/78031156/192919608-0897122f-374c-4c09-a266-400177967e8d.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78031156/192919471-91bfca10-acf3-4366-b0f7-2b9a13a7f3fc.png)
 
 
 
