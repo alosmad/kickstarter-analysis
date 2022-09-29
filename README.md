@@ -1,11 +1,18 @@
 # Kickstarter Campaigns Analysis
-## Overview of the Project
+## "Fever" is the new theater play by emerging playwright Louise. By analyzing crowdfunding campaigns in theater plays we will give a recommendation so Louise's crowdfunding campaign is a success.  
 ### This analysis has the purpose of providing an initial crowdfunding campaign recomendation for Louise's play **"Fever"**
 
+## Analysis and Challenges
 
 As a big picture we can see that theater is the category that uses more crowdfunding campaigns, it is not a category as successful as music or film & video but it has a rate near 50% for successful campaigns, we can se that analysis in the graph shown below.
 
 ![image](https://github.com/alosmad/kickstarter-analysis/blob/main/Parent%20category%20outcomes.png)
+
+### Analysis of Outcomes Based on Launch Date
+
+
+
+
 
 In terms of time, we recommend to make the campaign in the first 5 months of the year where the success rate increases.
 ![Outcomes based on launch date](C:\Users\madri\OneDrive\Escritorio\Data analysis Master\Crowdfunding Analysis\Outcomes based on launch date.png)
