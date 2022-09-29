@@ -23,12 +23,17 @@ Since this is the first crowfunding campaign  we recommend to reduce the estimat
 ## Results
 
 - What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+  1. It is more possible to have a successful theater campaign than a failed theater campaign.
+  2. In December overall theater campaigns fall but there is a greater possibility to have a failed campaign rather than in previous months.
 
 - What can you conclude about the Outcomes based on Goals?
+  It is 70% possible to have a succesful campaign if the goal is below $5,000. 
 
 - What are some limitations of this dataset?
+  A limitation was the original format used for the dates. It will be good to know who is launching the campaign, what type of institution or person is launching it.
 
 - What are some other possible tables and/or graphs that we could create?
+  It will be good to include an analysis based on campaign duration. 
 
 Alejandro Madrigal
 Data Analysis
